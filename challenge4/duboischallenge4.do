@@ -1,17 +1,10 @@
 
 
 clear
-cap cd "D:/Programs/Dropbox/Dropbox/STATA - MEDIUM"
-cap cd "C:\Users\asjad\Dropbox\STATA - MEDIUM"
 
+// set your directory here:
+*cap cd "D:/Programs/Dropbox/Dropbox/STATA - MEDIUM"
 
-* challenge here:
-*https://scatter.wordpress.com/2021/02/22/bringing-communities-together-with-the-duboischallenge/
-* GitHub here: https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge
-
-
-*** font here:
-*https://fonts.google.com/specimen/Rajdhani?preview.text_type=custom
 
 
 *** challenge 3: half pie

@@ -1,8 +1,10 @@
 
 
 clear
-cap cd "D:/Programs/Dropbox/Dropbox/STATA - MEDIUM"
-cap cd "C:\Users\asjad\Dropbox\STATA - MEDIUM"
+
+// set your directory here:
+*cap cd "D:/Programs/Dropbox/Dropbox/STATA - MEDIUM"
+
 
 
 *** font here:
@@ -43,4 +45,4 @@ twoway ///
 			xsize(2) ysize(3) ///
 			graphregion(fcolor("223 209 189")) plotregion(ilcolor(black) ilwidth(vthin))	
 			
-						*graph export "./graphs/DuBois/plate7/dubois1_stata_plate7.png", replace wid(2000)		
+						*graph export "./graphs/DuBois/plate7/dubois1_stata_plate7.png", replace wid(5000)		

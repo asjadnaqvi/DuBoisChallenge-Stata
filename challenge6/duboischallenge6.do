@@ -1,18 +1,9 @@
 
 
 clear
-cap cd "D:/Programs/Dropbox/Dropbox/STATA - MEDIUM"
 
-
-
-* challenge here:
-*https://scatter.wordpress.com/2021/02/22/bringing-communities-together-with-the-duboischallenge/
-
-* GitHub here: https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge
-
-
-*** font here:
-*https://fonts.google.com/specimen/Rajdhani
+// set your directory here:
+*cap cd "D:/Programs/Dropbox/Dropbox/STATA - MEDIUM"
 
 
 *** challenge 6: snakes
@@ -123,10 +114,6 @@ replace px2 = px2 - 0.08
 gen marker1 = obs in 1/60
 gen marker2 = obs in 1/60
 
-*replace marker1 = marker1 + 40 if py1 >  1e-02
-*replace marker2 = marker2 + 40 if py2 >  -1e-02
-
-
 
 cap drop ctextid1 ctextid2
 
@@ -227,15 +214,6 @@ replace textt = "2,500 TO 5,000" in 11
 
 *** graph here
 
-/*
-local spike
-
-forval x = 1/42 {
-	local theta = (`x') * - _pi / 42   	
-	local liner = abs((4 + 0.05) * cos(`theta'))    
-		local spike `spike' (function (tan(`theta')) * x, n(2) range(0 `liner') lw(vvthin) lc(gs8) lp(solid)) ||
-}
-*/
 
 local curvetext
 local curvetext2

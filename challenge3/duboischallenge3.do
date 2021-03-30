@@ -1,8 +1,8 @@
 
 clear
 
-// set your directory here
-cap cd "D:/Programs/Dropbox/Dropbox/STATA - MEDIUM"
+// set your directory here:
+*cap cd "D:/Programs/Dropbox/Dropbox/STATA - MEDIUM"
 
 
 
