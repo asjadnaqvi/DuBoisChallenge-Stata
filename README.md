@@ -11,17 +11,17 @@ The current visualization replicates some of the plates that provide a coding ch
 I have marked out some of the code blocks from the dofiles. They have been left in there since I use them as intermediary steps to check the outputs. They also help with the learning process. Note that these files might be modified in the future for minor code improvements. Please check here for the latest file or clone the directory.
 
 
-<img src="./challenge1/original-plate-07.jpg" height="500" title="Original">  <img src="./challenge1/dubois1_stata_plate7.png" height="500" title="Stata">
+<img src="./challenge1/original-plate-07.jpg" height="400" title="Original">  <img src="./challenge1/dubois1_stata_plate7.png" height="400" title="Stata">
 
-<img src="./challenge3/original-plate-27.jpg" height="500" title="Original">  <img src="./challenge3/dubois_stata_plate27.png" height="500" title="Stata">
+<img src="./challenge3/original-plate-27.jpg" height="400" title="Original">  <img src="./challenge3/dubois_stata_plate27.png" height="400" title="Stata">
 
-<img src="./challenge4/original-plate-51.jpg" height="500" title="Original">  <img src="./challenge4/dubois4_stata_plate51.png" height="500" title="Stata">
+<img src="./challenge4/original-plate-51.jpg" height="400" title="Original">  <img src="./challenge4/dubois4_stata_plate51.png" height="400" title="Stata">
 
-<img src="./challenge6/original-plate-11.jpg" height="500" title="Original">  <img src="./challenge6/dubois6_stata_plate11.png" height="500" title="Stata">
+<img src="./challenge6/original-plate-11.jpg" height="400" title="Original">  <img src="./challenge6/dubois6_stata_plate11.png" height="400" title="Stata">
 
-<img src="./challenge7/original-plate-25.jpg" height="500" title="Original">  <img src="./challenge7/dubois7_stata_plate25.png" height="500" title="Stata">
+<img src="./challenge7/original-plate-25.jpg" height="400" title="Original">  <img src="./challenge7/dubois7_stata_plate25.png" height="400" title="Stata">
 
-<img src="./challenge9/original-plate-08.jpg" height="500" title="Original">  <img src="./challenge9/dubois9_stata_plate8.png" height="500" title="Stata">
+<img src="./challenge9/original-plate-08.jpg" height="400" title="Original">  <img src="./challenge9/dubois9_stata_plate8.png" height="400" title="Stata">
 
 
 The Medium guide that explains the code is given here: COMING SOON!
