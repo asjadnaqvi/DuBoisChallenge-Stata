@@ -13,17 +13,17 @@ I have marked out some commands from the dofiles. They have been left in there s
 Note that these files might be modified in the future for minor code improvements. Please check here for the latest file or clone the directory.
 
 
-<img src="./challege1/original-plate-07.jpg" width="250" title="Original"><img src="./challege1/dubois1_stata_plate7.png" width="250" title="Stata">
+<img src="./challenge1/original-plate-07.jpg" width="250" title="Original"><img src="./challenge1/dubois1_stata_plate7.png" width="250" title="Stata">
 
-<img src="./challege3/original-plate-27.jpg" width="250" title="Original"><img src="./challege3/dubois_stata_plate27.png" width="250" title="Stata">
+<img src="./challenge3/original-plate-27.jpg" width="250" title="Original"><img src="./challenge3/dubois_stata_plate27.png" width="250" title="Stata">
 
-<img src="./challege4/original-plate-51.jpg" width="250" title="Original"><img src="./challege4/dubois4_stata_plate51.png" width="250" title="Stata">
+<img src="./challenge4/original-plate-51.jpg" width="250" title="Original"><img src="./challenge4/dubois4_stata_plate51.png" width="250" title="Stata">
 
-<img src="./challege6/original-plate-11.jpg" width="250" title="Original"><img src="./challege6/dubois6_stata_plate11.png" width="250" title="Stata">
+<img src="./challenge6/original-plate-11.jpg" width="250" title="Original"><img src="./challenge6/dubois6_stata_plate11.png" width="250" title="Stata">
 
-<img src="./challege7/original-plate-25.jpg" width="250" title="Original"><img src="./challege7/dubois7_stata_plate25.png" width="250" title="Stata">
+<img src="./challenge7/original-plate-25.jpg" width="250" title="Original"><img src="./challenge7/dubois7_stata_plate25.png" width="250" title="Stata">
 
-<img src="./challege9/original-plate-08.jpg" width="250" title="Original"><img src="./challege9/dubois4_stata_plate8.png" width="250" title="Stata">
+<img src="./challenge9/original-plate-08.jpg" width="250" title="Original"><img src="./challenge9/dubois4_stata_plate8.png" width="250" title="Stata">
 
 
 The Medium guide that explains the code is given here: COMING SOON!
