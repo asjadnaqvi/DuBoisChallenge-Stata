@@ -6,9 +6,9 @@ clear
 
 
 
+*** challenge 9
 
-
-*** maps files
+* maps files
 *https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
 
 

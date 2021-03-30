@@ -1,6 +1,6 @@
 
 
-clear
+
 
 
 // set your directory here:
@@ -8,7 +8,7 @@ clear
 
 
 
-*** challenge 6: the spiral
+*** challenge 7: more spirals
 
 
 				

@@ -11,7 +11,7 @@ clear
 *https://fonts.google.com/specimen/Rajdhani?preview.text_type=custom
 
 
-*** challenge 3: half pie
+
 
 import delimited using "https://raw.githubusercontent.com/ajstarks/dubois-data-portraits/master/challenge/challenge01/data.csv", clear
 

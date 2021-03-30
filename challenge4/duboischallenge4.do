@@ -7,7 +7,7 @@ clear
 
 
 
-*** challenge 3: half pie
+*** challenge 4: 
 
 import delimited using "https://raw.githubusercontent.com/ajstarks/dubois-data-portraits/master/challenge/challenge04/data.csv", clear
 

@@ -1,12 +1,12 @@
 
 
-clear
+
 
 // set your directory here:
 *cap cd "D:/Programs/Dropbox/Dropbox/STATA - MEDIUM"
 
 
-*** challenge 6: snakes
+*** challenge 6: spirals
 
 
 				
