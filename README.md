@@ -24,6 +24,6 @@ I have marked out some of the code blocks from the dofiles. They have been left 
 <img src="./challenge9/original-plate-08.jpg" height="400" title="Original">  <img src="./challenge9/dubois9_stata_plate8.png" height="400" title="Stata">
 
 
-The Medium guide that explains the code is given here: COMING SOON!
+The Medium guide that explains the code is given here: https://medium.com/the-stata-guide/graph-replication-the-du-bois-challenge-f0db93e719e6
 
 MORE DETAILS TO BE ADDED HERE SOON.
