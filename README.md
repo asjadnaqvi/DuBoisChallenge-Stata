@@ -2,6 +2,8 @@
 
 This repository contains the Stata code for the Du Bois Challenge posted by @ajstarks here: https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge. The details of the challenge are given here: https://scatter.wordpress.com/2021/02/22/bringing-communities-together-with-the-duboischallenge/. 
 
+See the Medium article: [**Graph replication: The Du Bois Challenge**](https://medium.com/the-stata-guide/graph-replication-the-du-bois-challenge-f0db93e719e6) for an explaination of the Stata code.
+
 The aim of this challenge is to replicate the powerful visuals of Du Bois that he drew by hand during his seminal data work on the life of the African American community during the early 1900s in the USA. The challenge has 10 plates selected from the pool of visualizations. The complete selection of all of Du Bois' plates are given here: https://github.com/ajstarks/dubois-data-portraits. A Medium guide that explains the code is here: https://medium.com/the-stata-guide/graph-replication-the-du-bois-challenge-f0db93e719e6.
 
 For the visualizations I am using the Rajdhani font available from Google fonts here: https://fonts.google.com/specimen/Rajdhani. If you find another font that is closer to the Du Bois typescript, then feel free to replace this one. Also please let me know about it as well!
