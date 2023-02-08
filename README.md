@@ -1,4 +1,4 @@
-# Du Bois Challenge - The Stata Guide
+# Du Bois Challenge 2021
 
 This repository contains the Stata code for the Du Bois Challenge posted by [ajstarks](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge). The details of the challenge are given here: https://scatter.wordpress.com/2021/02/22/bringing-communities-together-with-the-duboischallenge/. 
 
